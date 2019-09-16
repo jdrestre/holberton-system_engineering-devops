@@ -1,2 +1,2 @@
 #!/bin/bash
-id -u 1000
+id -un
