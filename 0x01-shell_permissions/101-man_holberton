@@ -1,17 +1,15 @@
 #!/bin/bash
-.\" Manpage for holberton.
-.\" Contact 1238@holbertonschool.com to correct errors.
-.TH man 1238 "19 Sep 2019" "1.0" "holberton man page"
+.TH man 7 "19 Sep 2019" "holberton man page"
 .SH NAME
-holberton \- become a full-stack software engineer 
+holberton - become a full-stack software engineer 
 .SH SYNOPSIS
-nuseradd [STUDENTNAME]
+holberton [STUDENTNAME]
 .SH DESCRIPTION
 Holberton Shcool is a project-based alternative to collage for the next generation of software engineers.
 .SH OPTIONS
-holberton does not take any options. However, you can supply studentname
+.B holberton does not take any options. However, you can supply studentname
 .SH SEE ALSO
-peerlearning(2), projetbased(2), fullstack(2), Betty(1)
+.I peerlearning(2), projetbased(2), fullstack(2), Betty(1)
 .SH BUGS
 No known bugs.
 .SH AUTHOR
