@@ -1,0 +1,18 @@
+#!/bin/bash
+.\" Manpage for holberton.
+.\" Contact 1238@holbertonschool.com to correct errors.
+.TH man 1238 "19 Sep 2019" "1.0" "holberton man page"
+.SH NAME
+holberton \- become a full-stack software engineer 
+.SH SYNOPSIS
+nuseradd [STUDENTNAME]
+.SH DESCRIPTION
+Holberton Shcool is a project-based alternative to collage for the next generation of software engineers.
+.SH OPTIONS
+holberton does not take any options. However, you can supply studentname
+.SH SEE ALSO
+peerlearning(2), projetbased(2), fullstack(2), Betty(1)
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Julien Barbier, Sylvian Kalache, Sophie Barbier, Guillaume Salva, Kris Bredemeier, Julien Cyr, Alex Gautier and all the Holberton mentors

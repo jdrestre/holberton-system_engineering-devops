@@ -5,6 +5,8 @@ Task 12 More directories - Check
 - Task 13 Change group - Check
 - Task 14 Owner and group - Check
 - Task 15 Simbolic Links - Check
-- Task 16 If only
+- Task 16 If only - Check
+- Task 17 Star Wars - Done
+
 
 
