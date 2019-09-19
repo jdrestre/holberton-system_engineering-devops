@@ -7,6 +7,6 @@ Task 12 More directories - Check
 - Task 15 Simbolic Links - Check
 - Task 16 If only - Check
 - Task 17 Star Wars - Done
-
+- Task 18 RTFM - Done
 
 
