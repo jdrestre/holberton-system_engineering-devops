@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R */ chgrp -R */
+chown -R betty:holberton */
