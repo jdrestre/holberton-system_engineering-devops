@@ -11,3 +11,4 @@
 - Task 9. Divide and rule
 - Task 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
 - Task 11. There are 10 types of people in the world -- Those who understand binary, and those who don't
+- Task 12. Combination
