@@ -8,3 +8,4 @@
 - Task - 6. Local variable
 - Task 7. Global variable
 - Task 8. Every addition to true knowledge is an addition to human power
+- Task 9. Divide and rule
