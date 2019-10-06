@@ -3,3 +3,4 @@ Task Shell Redirections
 - Task 17. I hate bins
 - Task 19. A to Z
 - Task 20. Without C, you would live in hiago
+- Task 21. esreveR
