@@ -35,6 +35,10 @@ Repository to study the following bash topics: Shell, init files, variables and 
 ---
 File Name|Task Name|Task Description
 ---|---|---
+100-rot13|17. Everyone is a proponent of strong encryption|Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+101-odd|18. The eggs of the brood need to be an odd number|Write a script that prints every other line from the input, starting with the first line.
+102-water_and_stir|19. I'm an instant star. Just add water and stir.|Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+
 - Task - 0. <o>
 - Task - 1. Hello you
 - Task - 2. The path to success is to take massive, determined action
@@ -51,5 +55,3 @@ File Name|Task Name|Task Description
 - Task 13. Floats
 - Task 14. Decimal to Hexadecimal
 - Task 17. Everyone is a proponent of strong encryption
-100-rot13|17. Everyone is a proponent of strong encryption|Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
-101-odd|18. The eggs of the brood need to be an odd number|Write a script that prints every other line from the input, starting with the first line.
