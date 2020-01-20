@@ -52,3 +52,4 @@ File Name|Task Name|Task Description
 - Task 14. Decimal to Hexadecimal
 - Task 17. Everyone is a proponent of strong encryption
 100-rot13|17. Everyone is a proponent of strong encryption|Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+101-odd|18. The eggs of the brood need to be an odd number|Write a script that prints every other line from the input, starting with the first line.
