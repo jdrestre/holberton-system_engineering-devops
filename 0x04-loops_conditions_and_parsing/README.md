@@ -21,6 +21,8 @@ File Name|Task Name|Task Description
 [1-for_holberton_school](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/1-for_holberton_school)|1. For Holberton School loop|Write a Bash script that displays Holberton School 10 times for loop.
 [2-while_holberton_school](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/2-while_holberton_school)|2. While Holberton School loop|Write a Bash script that displays Holberton School 10 times while loop.
 [3-until_holberton_school](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/3-until_holberton_school)|3. Until Holberton School loop|Write a Bash script that displays Holberton School 10 times until loop.
+[4-if_9_say_hi](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/4-if_9_say_hi)|Write a Bash script that displays Holberton School 10 times, but for the 9th iteration, displays Holberton School and then Hi on a new line.
+
 
 ---
 ## Author
