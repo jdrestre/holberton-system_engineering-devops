@@ -1,11 +1,9 @@
 #!/usr/bin/env bash
 # This script is displaying "Holberton School" 10 times
 
-i=1
-j='Holberton School'
-while [ $i -le 10 ]
+
+for value in {1..10}
 do
-    echo $j
-      ((i++))
+    echo "Holberton School"
 done
 
