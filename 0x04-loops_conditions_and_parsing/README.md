@@ -19,6 +19,7 @@ File Name|Task Name|Task Description
 ---|---|---
 [0-RSA_public_key.pub](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/0-RSA_public_key.pub)|0. Create a SSH RSA key pair|Create a RSA key pair.
 [1-for_holberton_school](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/1-for_holberton_school)|1. For Holberton School loop|Write a Bash script that displays Holberton School 10 times.
+[2-while_holberton_school](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/2-while_holberton_school)|2. While Holberton School loop|Write a Bash script that displays Holberton School 10 times.
 
 
 ---
