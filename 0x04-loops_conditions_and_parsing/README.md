@@ -29,6 +29,8 @@ File Name|Task Name|Task Description
 [9-to_file_or_not_to_file](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/9-to_file_or_not_to_file)|9. To file, or not to file|Write a Bash script that gives you information about the holbertonschool file.
 [10-fizzbuzz](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/10-fizzbuzz)|10. FizzBuzz|Write a Bash script that displays numbers from 1 to 100. FizzBuzz style
 [100-read_and_cut](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/100-read_and_cut)|11. Read and cut|Write a Bash script that displays the content of the file /etc/passwd. used delimiter option cut 
+[101-tell_the_story_of_passwd](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/101-tell_the_story_of_passwd)|12. Tell the story of passwd|rite a Bash script that displays the content of the file /etc/passwd, using the while loop + IFS.
+
 
 ---
 ## Author
