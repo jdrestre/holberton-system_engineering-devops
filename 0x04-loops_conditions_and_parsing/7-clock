@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying display numbers 1 to 20 bad luck China, Japan and Italy
+# This script is displaying display hours and minutes all day
 
 hh=0
 while [ $hh -le 12 ]
