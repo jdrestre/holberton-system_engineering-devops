@@ -2,6 +2,6 @@
 # Test with loop while FizzBuzz
 
 
-while read folder; do
+while read -r folder; do
     echo "$folder" | cut -d ':' -f1,3,6
 done < "/etc/passwd"
