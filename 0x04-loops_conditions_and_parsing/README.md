@@ -23,7 +23,7 @@ File Name|Task Name|Task Description
 [3-until_holberton_school](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/3-until_holberton_school)|3. Until Holberton School loop|Write a Bash script that displays Holberton School 10 times until loop.
 [4-if_9_say_hi](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/4-if_9_say_hi)|Write a Bash script that displays Holberton School 10 times, but for the 9th iteration, displays Holberton School and then Hi on a new line.
 [5-4_bad_luck_8_is_your_chance](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/5-4_bad_luck_8_is_your_chance)|5. 4 bad luck, 8 is your chance|Write a Bash script that loops from 1 to 10 and: bad luck good luck
-
+[6-superstitious_numbers](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/6-superstitious_numbers)|6. Superstitious numbers|Write a Bash script that displays numbers from 1 to 20 and: bad luck China, Japan and Italy
 
 ---
 ## Author
