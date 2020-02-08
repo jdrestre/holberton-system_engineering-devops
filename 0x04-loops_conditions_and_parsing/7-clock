@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# This script is displaying display numbers 1 to 20 bad luck China, Japan and Italy
+
+hh=0
+while [ $hh -le 12 ]
+do
+    echo "Hour: $hh"
+    mm=1
+    while [ $mm -le 59 ]
+    do
+	echo "$mm"
+	(( mm++ ))
+    done
+    (( hh++ ))
+done
