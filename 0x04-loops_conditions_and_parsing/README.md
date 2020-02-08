@@ -30,6 +30,7 @@ File Name|Task Name|Task Description
 [10-fizzbuzz](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/10-fizzbuzz)|10. FizzBuzz|Write a Bash script that displays numbers from 1 to 100. FizzBuzz style
 [100-read_and_cut](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/100-read_and_cut)|11. Read and cut|Write a Bash script that displays the content of the file /etc/passwd. used delimiter option cut 
 [101-tell_the_story_of_passwd](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/101-tell_the_story_of_passwd)|12. Tell the story of passwd|rite a Bash script that displays the content of the file /etc/passwd, using the while loop + IFS.
+[102-lets_parse_apache_logs](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/102-lets_parse_apache_logs)|13. Let's parse Apache logs|Write a Bash script that displays the visitor IP along with the HTTP status code from the Apache log file.
 
 
 ---
