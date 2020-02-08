@@ -25,6 +25,7 @@ File Name|Task Name|Task Description
 [5-4_bad_luck_8_is_your_chance](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/5-4_bad_luck_8_is_your_chance)|5. 4 bad luck, 8 is your chance|Write a Bash script that loops from 1 to 10 and: bad luck good luck
 [6-superstitious_numbers](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/6-superstitious_numbers)|6. Superstitious numbers|Write a Bash script that displays numbers from 1 to 20 and: bad luck China, Japan and Italy
 [7-clock](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/7-clock)|7. Clock|Write a Bash script that displays the time for 12 hours and 59 minutes
+[8-for_ls](https://github.com/jdrestre/0x04-loops_conditions_and_parsing/blob/master/8-for_ls)|8. For ls|Write a Bash script that displays content current directory with out before -info
 
 
 ---

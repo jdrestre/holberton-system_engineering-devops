@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This script is display content current directory without number task
+
+list=$(ls -t)
+for i in $list; do
+    echo "$i" | cut -d '-' -f2
+done
