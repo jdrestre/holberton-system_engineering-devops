@@ -20,6 +20,7 @@ File Name|Task Name|Task Description
 [0-what-is-my-pid](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/0-what-is-my-pid)|0. What is my PID|Write a Bash script that displays its own PID.
 [1-list_your_processes](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/1-list_your_processes)|1. List your processes|Write a Bash script that displays a list of currently running processes. Requeriments TTY user-oriented format, show process hierarchy
 [2-show_your_bash_pid](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/2-show_your_bash_pid)|2. Show your Bash PID|write a Bash script that displays lines containing the bash word, thus allowing you to easily get the PID of your Bash process.
+[3-show_your_bash_pid_made_easy](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/3-show_your_bash_pid_made_easy)|3. Show your Bash PID made easy|Write a Bash script that displays the PID, along with the process name, of processes whose name contain the word bash.
 
 
 ---
