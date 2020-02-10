@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script that kill process in task 4 To infinity and beyond process
+# Cannot use kill or killall
+pkill -f 4-to_infinity_and_beyond
