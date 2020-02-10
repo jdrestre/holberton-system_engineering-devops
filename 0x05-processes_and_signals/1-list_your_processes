@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Scritp to display a list of currently running processes
+# -f Full-format listing
+# -x must have a tty
+# -u display process user/owner
+# -a show process for all users
+ps -faux

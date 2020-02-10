@@ -18,6 +18,7 @@ Repository to study the following Lenguaje Bash Topic: Processes and signals
 File Name|Task Name|Task Description
 ---|---|---
 [0-what-is-my-pid](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/0-what-is-my-pid)|0. What is my PID|Write a Bash script that displays its own PID.
+[1-list_your_processes](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/1-list_your_processes)|1. List your processes|Write a Bash script that displays a list of currently running processes. Requeriments TTY user-oriented format, show process hierarchy
 
 ---
 ## Author
