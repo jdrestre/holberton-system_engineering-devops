@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# Script holbertonscript.pid containing its PID
+# Display To infinity and beyond indefinitely
+# Display I hate the kill command SIGTERM signal
+# Display Y U no love me?! SIGINT signal
+# Delete file .pid receiving SIGQUIT or SIGTERM signal
+terminator() {
+    rm /var/run/holbertonscript.pid
+    exit
+    }
+
+echo "$$" > /var/run/holbertonscript.pid
+while true
+do
+    echo "To infinity and beyond"
+    sleep 2
+    trap 'echo "Y U no love me?!"' SIGINT
+    trap 'echo "I hate the kill command" && terminator' SIGTERM
+    trap 'terminator' SIGQUIT
+done
