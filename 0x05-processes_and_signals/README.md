@@ -24,6 +24,8 @@ File Name|Task Name|Task Description
 [4-to_infinity_and_beyond](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/4-to_infinity_and_beyond)|4. To infinity and beyond|Write a Bash script that displays To infinity and beyond indefinitely. used sleep 2
 [5-kill_me_now](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/5-kill_me_now)|5. Kill me now|Write a Bash script that kills 4-to_infinity_and_beyond process. kill command
 [6-kill_me_now_made_easy](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/6-kill_me_now_made_easy)|6. Kill me now made easy|Write a Bash script that kills 4-to_infinity_and_beyond process. without kill and killall
+[7-highlander](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/7-highlander)|7. Highlander|Write a Bash script that displays used SIGTERM signal trap command
+
 
 ---
 ## Author
