@@ -24,6 +24,8 @@ File Name|Task Name|Task Description
 [1-repetition_token_0.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/1-repetition_token_0.rb)|1. Repetition Token #0|hbttn to habtttttn Match result
 [2-repetition_token_1.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/2-repetition_token_1.rb)|2. Repetition Token #1|htn and hbtn Match result
 [3-repetition_token_2.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/3-repetition_token_2.rb)|3-repetition_token_2.rb|hbn not hbtn to hbttttn match result
+[4-repetition_token_3.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/4-repetition_token_3.rb)|4. Repetition Token #3|without letter o hbn hbtn to hbttttn
+
 
 
 ---
