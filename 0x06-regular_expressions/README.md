@@ -20,7 +20,7 @@ Repository to study the following Topic: Regular Expression "regexpr"
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[0-simply_match_holberton.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0-simply_match_holberton.rb)|0. Simply matching Holberton|The regular expression must match **Holberton**
+[0-simply_match_holberton.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/0-simply_match_holberton.rb)|0. Simply matching Holberton|The regular expression must match **Holberton**
 
 
 ---
