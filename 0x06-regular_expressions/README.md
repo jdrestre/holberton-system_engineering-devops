@@ -21,6 +21,7 @@ Repository to study the following Topic: Regular Expression "regexpr"
 File Name|Task Name|Task Description
 ---|---|---
 [0-simply_match_holberton.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/0-simply_match_holberton.rb)|0. Simply matching Holberton|The regular expression must match **Holberton**
+[1-repetition_token_0.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/1-repetition_token_0.rb)|1. Repetition Token #0|hbttn to habtttttn Match result
 
 
 ---
