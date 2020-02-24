@@ -26,6 +26,8 @@ File Name|Task Name|Task Description
 [3-repetition_token_2.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/3-repetition_token_2.rb)|3-repetition_token_2.rb|hbn not hbtn to hbttttn match result
 [4-repetition_token_3.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/4-repetition_token_3.rb)|4. Repetition Token #3|without letter o hbn hbtn to hbttttn
 [5-beginning_and_end.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/5-beginning_and_end.rb)|5. Not quite HBTN yet|matching a string that starts with h ends with n and can have any single character in between
+[6-phone_number.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/6-phone_number.rb)|6. Call me maybe|The regular expression must match a 10 digit phone number
+
 
 
 ---

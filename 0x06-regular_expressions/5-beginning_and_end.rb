@@ -1,3 +1,2 @@
 #!/usr/bin/env ruby
-# coding: utf-8
 puts ARGV[0].scan(/^h.n$/).join
