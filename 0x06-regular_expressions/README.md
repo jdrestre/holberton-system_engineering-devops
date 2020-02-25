@@ -29,6 +29,7 @@ File Name|Task Name|Task Description
 [6-phone_number.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/6-phone_number.rb)|6. Call me maybe|The regular expression must match a 10 digit phone number
 [7-OMG_WHY_ARE_YOU_SHOUTING.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/7-OMG_WHY_ARE_YOU_SHOUTING.rb)|7. OMG WHY ARE YOU SHOUTING?|The regular expression must be only matching: capital letters
 [100-textme.rb](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/100-textme.rb)|8. Textme|Your script should output: [SENDER],[RECEIVER],[FLAGS]
+[101-passed_linkedin_regex_challenge.jpg](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x06-regular_expressions/101-passed_linkedin_regex_challenge.jpg)|9. Pass LinkedIn technical interview level0|Solve LinkedIn regex [puzzle](https://engineering.linkedin.com/puzzle)
 
 
 ---
