@@ -17,7 +17,7 @@ File Name|Task Name|Task Description
 ---|---|---
 [0-localhost](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/0-localhost)|0. Localhost|What is localhost?
 [1-wildcard](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/1-wildcard)|1. All IPs|What is 0.0.0.0?
-
+[2-change_your_home_IP](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/2-change_your_home_IP)|2. Change your home IP|Configures an Ubuntu server with the below requirements. localhost changed
 
 
 ---
