@@ -15,11 +15,11 @@ Repository to study the following Topic: Networking 1
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[0-localhost](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/0-localhost)|0. Localhost|What is localhost?
-[1-wildcard](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/1-wildcard)|1. All IPs|What is 0.0.0.0?
-[2-change_your_home_IP](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/2-change_your_home_IP)|2. Change your home IP|Configures an Ubuntu server with the below requirements. localhost changed
-[3-show_attached_IPs](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/3-show_attached_IPs)|3. Show attached IPs|Write a Bash script that displays all active IPv4 IPs on the machine it’s executed on.
-[4-port_listening_on_localhost](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/4-port_listening_on_localhost)|4. Port listening on localhost|Write a Bash script that listens on port 98 on localhost.
+[0-localhost](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x08-networking_basics_2/0-localhost)|0. Localhost|What is localhost?
+[1-wildcard](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x08-networking_basics_2/1-wildcard)|1. All IPs|What is 0.0.0.0?
+[2-change_your_home_IP](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x08-networking_basics_2/2-change_your_home_IP)|2. Change your home IP|Configures an Ubuntu server with the below requirements. localhost changed
+[3-show_attached_IPs](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x08-networking_basics_2/3-show_attached_IPs)|3. Show attached IPs|Write a Bash script that displays all active IPv4 IPs on the machine it’s executed on.
+[4-port_listening_on_localhost](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x08-networking_basics_2/4-port_listening_on_localhost)|4. Port listening on localhost|Write a Bash script that listens on port 98 on localhost.
 
 
 ---
