@@ -52,6 +52,7 @@ File Name|Task Name|Task Description
 [2-MAC_and_IP_address](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/2-MAC_and_IP_address)|2. MAC and IP address|MAC and IP address
 [3-UDP_and_TCP](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/3-UDP_and_TCP)|3. UDP and TCP|Diference between TCP and UDP
 [4-TCP_and_UDP_ports](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/4-TCP_and_UDP_ports)|4. TCP and UDP ports|TCP and UDP ports options
+[5-is_the_host_on_the_network](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/5-is_the_host_on_the_network)|5. Is the host on the network|Pings an IP address
 
 
 ---
