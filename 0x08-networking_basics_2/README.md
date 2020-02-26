@@ -16,6 +16,7 @@ Repository to study the following Topic: Networking 1
 File Name|Task Name|Task Description
 ---|---|---
 [0-localhost](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/0-localhost)|0. Localhost|What is localhost?
+[1-wildcard](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/1-wildcard)|1. All IPs|What is 0.0.0.0?
 
 
 
