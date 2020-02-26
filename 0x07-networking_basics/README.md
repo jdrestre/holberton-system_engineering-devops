@@ -13,7 +13,9 @@ Repository to study the following Topic: Networking
 - How many layers it has
 - How it is organized
 ---
-![N|Solid](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x07-networking_basics/pic_study/what%20is%20OSI%20model.png)
+<p align="center">
+  <img src="https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x07-networking_basics/pic_study/what%20is%20OSI%20model.png">
+</p>
 ---
 ### What is a LAN
 - Typical usage
@@ -22,7 +24,11 @@ Repository to study the following Topic: Networking
 ### What is a WAN
 - Typical usage
 - Typical geographical size
-
+---
+<p align="center">
+  <img src="https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x07-networking_basics/pic_study/LAN%20and%20WAN.jpg">
+</p>
+---
 ### What is the Internet
 - What is an IP address
 - What are the 2 types of IP address
@@ -43,6 +49,7 @@ Repository to study the following Topic: Networking
 File Name|Task Name|Task Description
 ---|---|---
 [0-OSI_model](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/0-OSI_model)|0. OSI model|Definition OSI model and OSI model organized
+[1-types_of_network](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x07-networking_basics/1-types_of_network)|1. Types of network|LAN WAN and Internet
 
 
 
