@@ -15,7 +15,6 @@ Repository to study the following Topic: Configuration management and resolve wi
 ---
 File Name|Task Name|Task Description
 ---|---|---
-
 [0-create_a_file.pp](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0A-configuration_management/0-create_a_file.pp)|0. Create a file|Using Puppet, create a file in /tmp/holberton
 [1-install_a_package.pp](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0A-configuration_management/1-install_a_package.pp)|1. Install a package|Using Puppet, install puppet-lint.
 
