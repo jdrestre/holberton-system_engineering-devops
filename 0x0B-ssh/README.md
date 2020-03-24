@@ -18,8 +18,8 @@ Repository to study the following Topic: How to access a remote server with ssh 
 File Name|Task Name|Task Description
 ---|---|---
 [0-use_a_private_key](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0B-ssh/0-use_a_private_key)|0. Use a private key|Write a Bash script that uses ssh to connect to your server using the private key ~/.ssh/holberton with the user ubuntu.
-[1-create_ssh_key_pair](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0B-ssh/0-use_a_private_key)|1. Create an SSH key pair|Bash script that creates an RSA key pair Name:holberton Number bits: 4096 Passphrase: betty
-
+[1-create_ssh_key_pair](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0B-ssh/1-create_ssh_key_pair)|1. Create an SSH key pair|Bash script that creates an RSA key pair Name:holberton Number bits: 4096 Passphrase: betty
+[2-ssh_config](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0B-ssh/2-ssh_config)|2. Client configuration file|SSH configuration file for the local SSH client, let’s configure it to our needs so that you can connect to a server without typing a password.
 
 
 ---
