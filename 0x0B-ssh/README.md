@@ -4,7 +4,7 @@
 ---
 
 ## Description
-Repository to study the following Topic: How to access a remote remote server with ssh using a public key
+Repository to study the following Topic: How to access a remote server with ssh using a public key
 
 - What is a server
 - Where servers usually live
@@ -17,7 +17,8 @@ Repository to study the following Topic: How to access a remote remote server wi
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[0-use_a_private_key]|0. Use a private key|Write a Bash script that uses ssh to connect to your server using the private key ~/.ssh/holberton with the user ubuntu.
+[0-use_a_private_key](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0B-ssh/0-use_a_private_key)|0. Use a private key|Write a Bash script that uses ssh to connect to your server using the private key ~/.ssh/holberton with the user ubuntu.
+[1-create_ssh_key_pair](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0B-ssh/0-use_a_private_key)|1. Create an SSH key pair|Bash script that creates an RSA key pair Name:holberton Number bits: 4096 Passphrase: betty
 
 
 
