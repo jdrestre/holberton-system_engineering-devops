@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 # modify ssh config file
 
 file_line { 'add line modify password authentication':
