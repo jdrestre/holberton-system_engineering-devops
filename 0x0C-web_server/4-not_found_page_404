@@ -7,7 +7,7 @@ sudo apt-get install -y nginx
 echo "Holberton School" | sudo tee /var/www/html/index.nginx-debian.html
 sudo sed -i "/listen 80 default_server;/a rewrite ^/redirect_me https://twitter.com/jdrestre permanent;" /etc/nginx/sites-enabled/default
 
-echo "Ceci n'est pas une page" > /var/www/html/page_error_404.html
-sed -i '46i error_page 404 /page_error_404.html;\nlocation = /page_error_404.html {\ninternal;\n}\n' /etc/nginx/sites-available/default
+echo "Ceci n'est pas une page" | sudo tee /var/www/html/page_error_404.html
+sudo sed -i '46i error_page 404 /page_error_404.html;\nlocation = /page_error_404.html {\ninternal;\n}\n' /etc/nginx/sites-available/default
 
 sudo service nginx restart
