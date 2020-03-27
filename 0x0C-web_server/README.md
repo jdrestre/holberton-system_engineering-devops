@@ -4,7 +4,9 @@
 ---
 
 ## Description
-Repository to study the following Topic: Web server 
+Repository to study the following Topic: Web server instalation and first steps
+
+![N|Solid](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/266/8Gu52Qv.png)
 
 # General
 - What is the main role of a web server
@@ -24,7 +26,11 @@ Repository to study the following Topic: Web server
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[0-transfer_file]()|0. Transfer a file to your server|Write a Bash script that transfers a file from our client to a server:
+[0-transfer_file](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0C-web_server/0-transfer_file)|0. Transfer a file to your server|Write a Bash script that transfers a file from our client to a server:
+[1-install_nginx_web_server](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0C-web_server/1-install_nginx_web_server)|1. Install nginx web server|Requeriments: - Install nginx on your web-01 server - Nginx should be listening on port 80 - When querying Nginx at its root / with a GET request (requesting a page) using curl, it must return a page that contains the string Holberton School- As an answer file, write a Bash script that configures a new Ubuntu machine to respect above requirements
+[2-setup_a_domain_name](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0C-web_server/2-setup_a_domain_name)|2. Setup a domain name|Holberton School partnered with .TECH Domains so that you can learn about DNS. Configure your DNS records with an A
+[3-redirection](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0C-web_server/3-redirection)|3. Redirection|Configure your Nginx server so that /redirect_me is redirecting to another page.
+[4-not_found_page_404](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0C-web_server/4-not_found_page_404)|Configure your Nginx server to have a custom 404 page that contains the string Ceci n'est pas une page.
 
 
 ---
