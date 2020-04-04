@@ -31,6 +31,7 @@ File Name|Task Name|Task Description
 [2-setup_a_domain_name](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0C-web_server/2-setup_a_domain_name)|2. Setup a domain name|Holberton School partnered with .TECH Domains so that you can learn about DNS. Configure your DNS records with an A
 [3-redirection](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0C-web_server/3-redirection)|3. Redirection|Configure your Nginx server so that /redirect_me is redirecting to another page.
 [4-not_found_page_404](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0C-web_server/4-not_found_page_404)|4. Not found page 404|Configure your Nginx server to have a custom 404 page that contains the string Ceci n'est pas une page.
+[7-puppet_install_nginx_web_server.pp](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x0C-web_server/7-puppet_install_nginx_web_server.pp)|6. Install Nginx web server (w/ Puppet)|configure an Nginx server using Puppet instead of Bash
 
 
 ---
