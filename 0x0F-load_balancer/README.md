@@ -4,7 +4,7 @@
 ---
 
 ## Description
-Repository to study the following Topic: 
+Repository to study the following Topic: Configurate Load Balancer server intalled HAproxy conect with two web-server
 
 ![N|Solid](https://github.com/jdrestre/pictures-holberton-projects/blob/master/0x0F.%20Load%20balancer/load_balancer_map_qfdked8.png)
 
@@ -13,6 +13,7 @@ Repository to study the following Topic:
 File Name|Task Name|Task Description
 ---|---|---
 [0-custom_http_response-header](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x0F-load_balancer/0-custom_http_response-header)|0. Double the number of webservers|
+[1-install_load_balancer](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x0F-load_balancer/1-install_load_balancer)|1. Install your load balancer|Install and configure HAproxy on your lb-01 server.
 
 
 
