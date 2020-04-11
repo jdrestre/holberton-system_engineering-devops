@@ -1,6 +1,7 @@
 ---
 <h1 align="center">0x13. Firewall</h1>
 
+---
 ## Diagram Firewall
 
 ![N|Solid](https://github.com/jdrestre/pictures-holberton-projects/blob/master/0x13_firewall/Diagram_Firewall.png)
@@ -9,7 +10,7 @@
 ## Description
 Repository to study the following Topic: Firewall
 
-
+---
 ## Task Project
 ---
 File Name|Task Name|Task Description
