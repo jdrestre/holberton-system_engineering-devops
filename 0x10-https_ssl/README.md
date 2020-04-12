@@ -19,7 +19,8 @@ Repository to study the following Topic: HTTPS -SSL
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[0-https_abc](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x10-https_ssl/0-https_abc)|0. HTTPS ABC|What is HTTPS? Why do you need HTTPS? You want to setup HTTPS on your website, where shall you place the certificate?
+[`0-https_abc`](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x10-https_ssl/0-https_abc)|0. HTTPS ABC|What is HTTPS? Why do you need HTTPS? You want to setup HTTPS on your website, where shall you place the certificate?
+[`1-world_wide_web`](https://github.com/jdrestre/holberton-system_engineering-devops/tree/master/0x10-https_ssl/1-world_wide_web)|1. World wide web|Configure your domain zone so that the subdomain `www` points to your load-balancer IP (`lb-01`). Let’s also add other subdomains to make our life easier, and write a Bash script that will display information about subdomains.
 
 
 ---
