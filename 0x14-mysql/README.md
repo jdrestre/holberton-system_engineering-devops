@@ -1,6 +1,8 @@
-# "Project name"
+# 0x14. Mysql
 
 ===
+
+![Diagram MySQL Primary Slave](https://github.com/jdrestre/pictures-holberton-projects/blob/master/0x14MySQL/diagram_mysql_slave.png)
 
 ## Description
 
@@ -9,14 +11,18 @@ Repository to study the following Topic:
 
 ### General
 
--
+- What is the main role of a database
+- What is a database replica
+- What is the purpose of a database replica
+- Why database backups need to be stored in different physical locations
+- What operation should you regularly perform to make sure that your database backup strategy actually works
 
 ## Task Project
 
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[**`File_name`**](https://github.com/jdrestre/"REPO_NAME"/blob/master/"Directory_Name"/"File_Name")|**Title Task**|Description Task
+[**`1-Let_us_in.sql`**](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x14-mysql/1-Let_us_in.sql)|**1. Let us in!**|Create a MySQL user named holberton_user on both web-01 and web-02 **NO FILE EVALUATED**
 
 ## Author
 
