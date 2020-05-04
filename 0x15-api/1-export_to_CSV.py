@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" 
+"""
 Script to export data in the CSV format.
 """
 import requests
@@ -17,4 +17,6 @@ if __name__ == "__main__":
 
 with open("{}.csv".format(user_id), "w", newline="") as csvfile:
     writer = csv.writer(csvfile, quoting=csv.QUOTE_ALL)
-    [writer.writerow([user_id, a.get("completed"), a.get("title")]) for a in todos]
+    [writer.writerow(
+        [user_id, username, a.get("completed"), a.get("title")])
+        for a in todos]
