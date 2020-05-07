@@ -9,7 +9,7 @@ Repository to study the following Topic: Reddit API Documentation and Query Stri
 
 ### General
 
--How to read API documentation to find the endpoints you’re looking for
+- How to read API documentation to find the endpoints you’re looking for
 - How to use an API with pagination
 - How to parse JSON results from an API
 - How to make a recursive API call
@@ -21,6 +21,7 @@ Repository to study the following Topic: Reddit API Documentation and Query Stri
 File Name|Task Name|Task Description
 ---|---|---
 [**`0-subs.py`**](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x16-api_advanced/0-subs.py)|**0. How many subs?**|Write a function that queries the Reddit API and returns the number of subscribers (not active users, total subscribers) for a given subreddit
+[**`1-top_ten.py`**](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x16-api_advanced/1-top_ten.py)|**1. Top Ten**|Write a function that queries the Reddit API and prints the titles of the first 10 hot posts listed for a given subreddit.
 
 ## Author
 
