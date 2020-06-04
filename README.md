@@ -15,7 +15,7 @@ Repository to study the following Topic:
 
 ---
 File Name|Description Folder
----|---|---
+---|---
 [**`0x00-shell_basics`**](https://github.com/jdrestre/holberton-system_engineering-devops/blob/master/0x00-shell_basics/)|Description
 0x01-shell_permissions|
 0x02-shell_redirections|
